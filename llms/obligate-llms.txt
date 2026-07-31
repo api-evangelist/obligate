@@ -1,0 +1,20 @@
+# Obligate
+
+## Obligate
+
+- [Introduction](https://docs.obligate.com/obligate/introduction.md)
+- [ENote Protocol](https://docs.obligate.com/obligate/enote-protocol.md)
+- [Risks](https://docs.obligate.com/obligate/risks.md)
+- [Obligate compatibility Guide](https://docs.obligate.com/obligate/obligate-compatibility-guide.md)
+- [Glossary](https://docs.obligate.com/obligate/glossary.md): Here you will find a comprehensive list of terms and definitions related to obligate.com.
+- [Getting started](https://docs.obligate.com/obligate-for-investors/getting-started.md)
+- [KYB / KYC](https://docs.obligate.com/obligate-for-investors/getting-started/kyb-kyc.md): This page describes the information and documents needed for our KYB & KYC
+- [Investing](https://docs.obligate.com/obligate-for-investors/investing.md)
+- [Enforcement](https://docs.obligate.com/obligate-for-investors/enforcement.md): This page describes how to enforce an eNote.
+- [Fees](https://docs.obligate.com/obligate-for-investors/fees.md)
+- [Getting started](https://docs.obligate.com/obligate-for-borrowers/getting-started.md)
+- [KYB / KYC](https://docs.obligate.com/obligate-for-borrowers/getting-started/kyb-kyc.md): This page describes the information and documents needed for our KYB & KYC
+- [Borrowing](https://docs.obligate.com/obligate-for-borrowers/borrowing.md)
+- [Credora](https://docs.obligate.com/obligate-for-borrowers/credora.md)
+- [Fees](https://docs.obligate.com/obligate-for-borrowers/fees.md)
+- [eNote legal framework](https://docs.obligate.com/legal/enote-legal-framework.md): Enabling Standardised & Enforceable Debt. As DLT-based Securities.

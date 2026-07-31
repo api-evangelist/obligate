@@ -1,8 +1,28 @@
 aid: obligate
 name: Obligate
-description: Obligate is a company surfaced as a portfolio company of earlybird and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Obligate (formerly FQX) is a Swiss digital-securities infrastructure provider
+  for regulated on-chain debt capital markets. Its AssetOS platform lets
+  companies issue tokenized bonds and short-term notes as blockchain-based
+  eNotes and eTrackers under the Swiss DLT Act and Code of Obligations, while
+  institutional investors access regulated on-chain private credit,
+  asset-backed securities and trade-finance yield products. Obligate automates
+  the bond lifecycle with smart contracts across multiple blockchains, with
+  built-in KYB/KYC, settlement and enforcement, reducing issuance cost and time
+  versus traditional debt issuance.
 url: https://raw.githubusercontent.com/api-evangelist/obligate/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/63a02e47caead88db4be659f/6a0c7575182806154dc15372_Screenshot%202026-05-19%20at%2016.36.06.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +31,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Digital Securities
+- Tokenization
+- Blockchain
+- Debt Capital Markets
+- Private Credit
+- Bonds
+- Real World Assets
+- Trade Finance
+- Fintech
 apis: []
+common:
+- type: DomainSecurity
+  url: security/obligate-domain-security.yml
+- type: Website
+  url: https://www.obligate.com
+- type: Documentation
+  url: https://docs.obligate.com
+- type: GettingStarted
+  url: https://docs.obligate.com/obligate-for-investors/getting-started
+- type: Login
+  url: https://app.obligate.com
+- type: SignUp
+  url: https://app.obligate.com/auth?tab=signup
+- type: Pricing
+  url: https://docs.obligate.com/obligate-for-investors/fees
+- type: TermsOfService
+  url: https://cdn.prod.website-files.com/63a02e47caead88db4be659f/6a465cc535b5fa553a28bf1c_240315_Obligate%20General%20Terms.pdf
+- type: PrivacyPolicy
+  url: https://cdn.prod.website-files.com/63a02e47caead88db4be659f/6a1804c228eb23cff2a9f1b2_Obligate%20Privacy%20Notice%20v3.0%20-%2020260601.pdf
+- type: Blog
+  url: https://obligate.medium.com/
+- type: LLMsTxt
+  url: llms/obligate-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
